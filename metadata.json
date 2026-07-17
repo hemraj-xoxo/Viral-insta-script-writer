@@ -1,0 +1,6 @@
+{
+  "name": "Viral Reel Script Writer",
+  "description": "Generate viral Instagram reels, scripts, content ideas, and hooks using AI. Supports multiple niches, tones, and languages with local saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
